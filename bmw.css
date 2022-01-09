@@ -1,0 +1,30 @@
+body{
+    background-image: url(pozadina.jpg);
+    background-color: #bbb;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#wraper{
+    width: 960px;
+    padding: 15px;
+    background-color: #fff;
+    font-family: 'Pushster', cursive;
+    margin: auto;
+}
+
+#header{
+    background-color: #000000;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+#header p{
+    float:none;
+    color: #fff;
+    font-style: italic;
+    font-size: 1.4em;
+    margin: 0;
+}
